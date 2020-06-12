@@ -2,10 +2,7 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue?style=flat-square)](https://paypal.me/fast0n)
 
-
 This is a simple python script for translating xml strings into any language.
-
-![Slice result](img/sample.png)
 
 #### Install dependence with:
 ```
